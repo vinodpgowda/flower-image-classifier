@@ -1,19 +1,22 @@
-# Petals to the Metal - Flower Classification on TPU Challenge
+# Kaggle Flower Classification
 
-## Overview     
-This repository contains the code for a flower image classifier developed for the "Petals to the Metal - Flower Classification on TPU" challenge on Kaggle. The challenge involves classifying images of flowers into multiple categories using Tensor Processing Units (TPUs).
+This repository contains the code and experiments for the "Petals to the Metal" Kaggle competition on flower classification.
 
-## Challenge Description
-The "Petals to the Metal" challenge on Kaggle focuses on flower image classification, requiring participants to build and train models that can accurately identify various flower species based on their images. TPUs are employed to accelerate the training process, and the competition evaluates models based on their performance on a held-out test set.
+## Kaggle Notebooks
 
-## Requirements
-- Python 3.x
-- TensorFlow
-- TPU hardware (for training on TPU)
-- Other dependencies listed in `requirements.txt`
+All the experiments and model training were conducted on Kaggle. You can find the Kaggle notebooks in the following links:
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/vinodpgowda/flower-image-classifier.git
-   cd flower-image-classifier
+1. [Notebook 1: Detecting Accelerator and Basic Setup](kaggle_notebooks/notebook_1.ipynb)
+
+## Kaggle Results
+
+The results of the experiments, including validation accuracies and decisions on hyperparameters, are documented in the Kaggle notebooks.
+
+## Kaggle Dataset
+
+The dataset used in this project is the "Petals to the Metal" Kaggle competition dataset. You can find it [here](https://www.kaggle.com/competitions/tpu-getting-started/data).
+
+## Kaggle Profile
+
+For more details and to explore other Kaggle competitions and notebooks, visit my Kaggle profile: [My Kaggle Profile](https://www.kaggle.com/vinodpgowda).
+
