@@ -20,3 +20,10 @@ The dataset used in this project is the "Petals to the Metal" Kaggle competition
 
 For more details and to explore other Kaggle notebooks, visit my Kaggle profile: [My Kaggle Profile](https://www.kaggle.com/vinodpgowda).
 
+## Link to Blog
+
+https://vinodkumarpgowda.wixsite.com/profile/post/tpu-triumph-mastering-kaggle-s-petals-to-the-metal-flower-classification
+
+## Link to Profile
+
+https://vinodkumarpgowda.wixsite.com/profile
